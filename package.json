@@ -1,0 +1,19 @@
+{
+  "name": "keyshapejs",
+  "version": "1.0.0",
+  "description": "KeyshapeJS is a lighweight JavaScript library to animate SVG documents.",
+  "main": "keyshapejs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iodev/keyshapejs.git"
+  },
+  "author": "Pixofield Ltd",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iodev/keyshapejs/issues"
+  },
+  "homepage": "https://github.com/iodev/keyshapejs#readme"
+}
